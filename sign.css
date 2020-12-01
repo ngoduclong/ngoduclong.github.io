@@ -1,0 +1,49 @@
+.Info{
+  width: 90%;
+  margin: auto;
+  background-color: #ccc;
+  
+}
+.Info-container{
+  width: 44%;
+  margin: auto;
+  padding: 0 30px;
+}
+.Info-title{
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+ul{
+list-style: none;
+}
+.Info-lists-item{
+  width: 520px;
+  margin-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.radio{
+  display: block !important;
+}
+.mr40{
+  margin-right: 40px;
+}
+.btn{
+  justify-content: center;
+}
+.btn button{
+  margin-right: 30px;
+}
+input{
+  width: 400px;
+  padding: 5px;
+  /* border: 0; */
+}
+input[type="radio"]{
+  width: auto;
+}
+.file-input{
+  padding: 0;
+  width: 414px;
+}
